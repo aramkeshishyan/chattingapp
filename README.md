@@ -10,7 +10,7 @@
 * [Available Commands](#available-commands)
 
 ## General info
-This project is a peer-to-peer application
+This project is a peer-to-peer chat application
 
 ## PREREQUISITES:
 If running on a windows machine use WSL(Windows Subsystem for Linux)
