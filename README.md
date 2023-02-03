@@ -34,8 +34,7 @@ $ ./chat portNumber
 ```
 
 ## Functionality
-* Run the program using up to 10 instances of terminals to immitate up to 10 group members
-
+* Run the program using up to 10 instances of terminals to immitate up to 10 clients
 
 ## Available Commands
 The following commands can be invoked at any point 
